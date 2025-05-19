@@ -43,7 +43,7 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url("/Users/simran/Documents/GitHub/Personal-Portfolio/Purple Illustrated Mountain Desktop Wallpaper.png") no-repeat;
+    background: url("Purple Illustrated Mountain Desktop Wallpaper.png") no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
