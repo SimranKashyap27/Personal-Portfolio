@@ -257,7 +257,6 @@ body {
     gap: 50px;
     margin-top: 50px;
 }
-
 .experience-item {
     display: flex;
     gap: 40px;
@@ -268,33 +267,27 @@ body {
     transition: transform 0.5s, background 0.5s;
     box-shadow: 1px 1px 20px #012290f7, 1px 1px 40px #0053b8f7;
 }
-
 .experience-item:hover {
     transform: translateY(-10px);
 }
-
 .experience-image img {
     border-radius: 10px;
     max-width: 100%;
     height: auto;
 }
-
 .experience-content {
     flex: 1;
     font-size: 15px;
 }
-
 .experience-content h2 {
     font-size: 30px;
     margin-bottom: 15px;
     color: #00eeff;
     text-align: left;
 }
-
 .experience-content ul {
     padding-left: 20px;
 }
-
 .experience-content li {
     margin-bottom: 10px;
 }
