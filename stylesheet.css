@@ -261,7 +261,7 @@ body {
     display: flex;
     gap: 20px;
     align-items: center;
-    padding: 10px;
+    padding: 5px;
     border-radius: 20px;
     background-color: transparent;
     transition: transform 0.5s, background 0.5s;
@@ -286,7 +286,7 @@ body {
     text-align: left;
 }
 .experience-content ul {
-    padding-left: 20px;
+    padding-left: 0px;
 }
 .experience-content li {
     margin-bottom: 10px;
