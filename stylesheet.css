@@ -255,13 +255,13 @@ body {
     display: flex;
     flex-direction: column;
     gap: 50px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .experience-item {
     display: flex;
-    gap: 40px;
+    gap: 20px;
     align-items: center;
-    padding: 40px;
+    padding: 10px;
     border-radius: 20px;
     background-color: transparent;
     transition: transform 0.5s, background 0.5s;
@@ -272,15 +272,15 @@ body {
 }
 .experience-image img {
     border-radius: 10px;
-    max-width: 100%;
-    height: auto;
+    width: 550px;
+    height: 550px;
 }
 .experience-content {
     flex: 1;
     font-size: 15px;
 }
 .experience-content h2 {
-    font-size: 30px;
+    font-size: 40px;
     margin-bottom: 15px;
     color: #00eeff;
     text-align: left;
